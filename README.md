@@ -83,9 +83,9 @@ Explorez se repo en local:
    ```bash
    npm install nodemon
    ```
-4. Lancer l'environnement de developpement et:
+4. Lancer l'environnement de developpement et vous serrez prêt:
    ```bash
-   npm install nodemon
+   npm run dev
    ```
 
 Une fois que l'environnement de développement fonctionnel vous êtes maintenant prêt à pouvoir explorer et modifier le projet à votre sauce.
