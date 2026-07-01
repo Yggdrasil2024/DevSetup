@@ -49,5 +49,6 @@ DevSetup                            #racine du projet
 │   ├── terminal_et_commandes.md    # Guide des commandes du terminal
 │   └── git_and_github.md           # Concepts et commandes Git/GitHub
 ├── .editorconfig                   # Configuration des règles de l'éditeur (Bonus)
-├── .gitignore                      # Fichiers et dossiers à ignorer par Git
+├── .gitignore                      # Fichiers et dossiers à ignorer par 
+├── package.json                    # information de base sur le projet pour node
 └── README.md                       # Présentation du projet (ce fichier)
