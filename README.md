@@ -14,6 +14,7 @@ se repository exitste dans le cadre de la cohorte 2 de la formation en developpe
     - [GitHub:](#github)
   - [📂 Sturctue du projet](#-sturctue-du-projet)
   - [Bonus realisé](#bonus-realisé)
+  - [comment utiliser se repo](#comment-utiliser-se-repo)
 
 ## Description du projet 📖
 
@@ -60,4 +61,19 @@ DevSetup                            #racine du projet
 1. ajout et configuration de `nodemon` dans le projet
 2. ![alt text](image.png)
 3. creation du fichier `.editorconfig` 
-4. 
+4. creation de la branch `dev` et merging avec main
+
+## comment utiliser se repo
+
+Explorez se repo en local:
+
+1. Cloner le repo:
+   ```bash
+   git clone https://github.com/Yggdrasil2024/DevSetup.git
+   ```
+
+2. Deplacez vous dans le repos:
+   ```bash
+   cd DevSetup
+   ```
+3. 
