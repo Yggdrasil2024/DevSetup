@@ -1,0 +1,20 @@
+{
+  "name": "dev.setup",
+  "version": "1.0.0",
+  "description": "projet test pour la phase 0 de la cohorte 2 d'Akieni Academy",
+  "homepage": "https://github.com/Yggdrasil2024/DevSetup#readme",
+  "bugs": {
+    "url": "https://github.com/Yggdrasil2024/DevSetup/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yggdrasil2024/DevSetup.git"
+  },
+  "license": "ISC",
+  "author": "yggdrasil2024",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
