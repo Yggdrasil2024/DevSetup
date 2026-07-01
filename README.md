@@ -13,6 +13,7 @@ se repository exitste dans le cadre de la cohorte 2 de la formation en developpe
     - [🎮 Terminal:](#-terminal)
     - [GitHub:](#github)
   - [📂 Sturctue du projet](#-sturctue-du-projet)
+  - [Bonus realisé](#bonus-realisé)
 
 ## Description du projet 📖
 
@@ -42,7 +43,7 @@ simple connexion au compte deja existant
 
 ## 📂 Sturctue du projet
 Voici l'arborescence du projet:
-
+```html
 DevSetup                            #racine du projet
 ├── notes/                          # Dossier contenant mes notes de la semaine
 │   ├── architecture_pc_et_web.md   # Fonctionnement d'un ordinateur et du web
@@ -52,3 +53,11 @@ DevSetup                            #racine du projet
 ├── .gitignore                      # Fichiers et dossiers à ignorer par 
 ├── package.json                    # information de base sur le projet pour node
 └── README.md                       # Présentation du projet (ce fichier)
+```
+
+## Bonus realisé
+
+1. ajout et configuration de `nodemon` dans le projet
+2. ![alt text](image.png)
+3. creation du fichier `.editorconfig` 
+4. 
