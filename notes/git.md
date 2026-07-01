@@ -1,0 +1,1 @@
+# Procecedure de configuration de Git
