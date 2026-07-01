@@ -38,29 +38,29 @@ Git a eté installer en local via Git Bash(nom et email configurer aussi)
 
 **Nom**: Powershell(integration au sein de VS-code)
 
-###  GitHub:
+### GitHub:
 
 simple connexion au compte deja existant
 
 ## 📂 Sturctue du projet
+
 Voici l'arborescence du projet:
+
 ```html
-DevSetup                            #racine du projet
-├── notes/                          # Dossier contenant mes notes de la semaine
-│   ├── architecture_pc_et_web.md   # Fonctionnement d'un ordinateur et du web
-│   ├── terminal_et_commandes.md    # Guide des commandes du terminal
-│   └── git_and_github.md           # Concepts et commandes Git/GitHub
-├── .editorconfig                   # Configuration des règles de l'éditeur (Bonus)
-├── .gitignore                      # Fichiers et dossiers à ignorer par 
-├── package.json                    # information de base sur le projet pour node
-└── README.md                       # Présentation du projet (ce fichier)
+DevSetup #racine du projet ├── notes/ # Dossier contenant mes notes de la
+semaine │ ├── architecture_pc_et_web.md # Fonctionnement d'un ordinateur et du
+web │ ├── terminal_et_commandes.md # Guide des commandes du terminal │ └──
+git_and_github.md # Concepts et commandes Git/GitHub ├── .editorconfig #
+Configuration des règles de l'éditeur (Bonus) ├── .gitignore # Fichiers et
+dossiers à ignorer par ├── package.json # information de base sur le projet pour
+node └── README.md # Présentation du projet (ce fichier)
 ```
 
 ## Bonus realisé
 
 1. ajout et configuration de `nodemon` dans le projet
 2. ![alt text](image.png)
-3. creation du fichier `.editorconfig` 
+3. creation du fichier `.editorconfig`
 4. creation de la branch `dev` et merging avec main
 
 ## comment utiliser se repo
@@ -68,12 +68,22 @@ DevSetup                            #racine du projet
 Explorez se repo en local:
 
 1. Cloner le repo:
+
    ```bash
    git clone https://github.com/Yggdrasil2024/DevSetup.git
    ```
 
-2. Deplacez vous dans le repos:
+2. Déplacez-vous dans le repos:
    ```bash
    cd DevSetup
    ```
-3. 
+3. Installer les dependances necessaire juste `nodemon` pour notre cas:
+   ```bash
+   npm install nodemon
+   ```
+4. Lancer l'environnement de developpement et:
+   ```bash
+   npm install nodemon
+   ```
+
+Une fois que l'environnement de developpement fonctionnel vous êtes maintenant prêt à pouvoir explorer et modifier le projet à votre sauce.
