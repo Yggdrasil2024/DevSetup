@@ -1,26 +1,26 @@
 # DevSetup: environnement de developpement Fullstack 👾
 
-se repository exitste dans le cadre de la cohorte 2 de la formation en developpement fullstack d'Akieni Academy.
+Se repository èxiste dans le cadre de la cohorte 2 de la formation en développement fullstack d'Akieni Academy.
 
 ## Table de matières
 
 - [DevSetup: environnement de developpement Fullstack 👾](#devsetup-environnement-de-developpement-fullstack-)
   - [Table de matières](#table-de-matières)
-  - [Description du projet 📖](#description-du-projet-)
-  - [Outils configuré 💻](#outils-configuré-)
+  - [Dèscription du projet 📖](#dèscription-du-projet-)
+  - [Outils configurés 💻](#outils-configurés-)
     - [Editeur de code](#editeur-de-code)
     - [Versionning software](#versionning-software)
     - [🎮 Terminal:](#-terminal)
     - [GitHub:](#github)
-  - [📂 Sturctue du projet](#-sturctue-du-projet)
+  - [📂 Sturcture du projet](#-sturcture-du-projet)
   - [Bonus realisé](#bonus-realisé)
   - [comment utiliser se repo](#comment-utiliser-se-repo)
 
-## Description du projet 📖
+## Dèscription du projet 📖
 
-Mise en place de l'environement de travail necessaire pour le developpement fullstack: installation d'un editeur de code, installation de Git pour le versionning, configuration d'un terminal, hosting du code avec GitHub ainsi que d'un runtime pour le javascript coté serveur.
+Mise en place de l'environement de travail nécessaire pour le développement fullstack: installation d'un éditeur de code, installation de Git pour le versionning, configuration d'un tèrminal, hosting du code avec GitHub ainsi que d'un runtime pour le javascript coté sèrveur.
 
-## Outils configuré 💻
+## Outils configurés 💻
 
 Voici les outils que j'ai eu a configurer dans mon environnement
 
@@ -32,28 +32,30 @@ Voici les outils que j'ai eu a configurer dans mon environnement
 
 ### Versionning software
 
-Git a eté installer en local via Git Bash(nom et email configurer aussi)
+Git a eté installé en local via Git Bash(nom et email configurer aussi)
 
 ### 🎮 Terminal:
 
-**Nom**: Powershell(integration au sein de VS-code)
+**Nom**: Powershell(intégration au sein de VS-code)
 
 ### GitHub:
 
-simple connexion au compte deja existant
+simple connexion au compte déja èxistant
 
-## 📂 Sturctue du projet
+## 📂 Sturcture du projet
 
-Voici l'arborescence du projet:
+Voici l'arboréscence du projet:
 
 ```html
-DevSetup #racine du projet ├── notes/ # Dossier contenant mes notes de la
-semaine │ ├── architecture_pc_et_web.md # Fonctionnement d'un ordinateur et du
-web │ ├── terminal_et_commandes.md # Guide des commandes du terminal │ └──
-git_and_github.md # Concepts et commandes Git/GitHub ├── .editorconfig #
-Configuration des règles de l'éditeur (Bonus) ├── .gitignore # Fichiers et
-dossiers à ignorer par ├── package.json # information de base sur le projet pour
-node └── README.md # Présentation du projet (ce fichier)
+DevSetup #racine du projet 
+├── notes/ # Dossier contenant mes notes de la semaine 
+│ ├── architecture_pc_et_web.md # Fonctionnement d'un ordinateur et du web 
+│ ├── terminal_et_commandes.md # Guide des commandes du terminal 
+│ └── git_and_github.md # Concepts et commandes Git/GitHub 
+├── .editorconfig #Configuration des règles de l'éditeur (Bonus) 
+├── .gitignore # Fichiers et dossiers à ignorer par 
+├── package.json # information de base sur le projet pour node 
+└── README.md # Présentation du projet (ce fichier)
 ```
 
 ## Bonus realisé
@@ -86,4 +88,4 @@ Explorez se repo en local:
    npm install nodemon
    ```
 
-Une fois que l'environnement de developpement fonctionnel vous êtes maintenant prêt à pouvoir explorer et modifier le projet à votre sauce.
+Une fois que l'environnement de développement fonctionnel vous êtes maintenant prêt à pouvoir explorer et modifier le projet à votre sauce.
